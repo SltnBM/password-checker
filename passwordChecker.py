@@ -1,4 +1,8 @@
+import sys
 import re
+
+# Set output encoding to UTF-8
+sys.stdout.reconfigure(encoding='utf-8')
 
 def check_strength(password):
     score = 0
