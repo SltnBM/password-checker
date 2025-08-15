@@ -37,3 +37,6 @@ Password Strength: Strong ✅ (Score: 5/5)
 - **Weak**: Score 2 or below
 - **Fair**: Score 3 or 4
 - **Strong**: Score 5
+
+## Contributing
+Feel free to open issues or submit pull requests for improvements or bug fixes.
