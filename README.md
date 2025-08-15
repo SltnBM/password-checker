@@ -27,7 +27,7 @@ A simple Python script to check the strength of a given password. It evaluates t
     ```
 > 💡 Enter a password when prompted, and the script will evaluate its strength.
 
-## Example
+## 💻 Example
 ```bash
 Enter the password to check: MyPassword123!
 Password Strength: Strong ✅ (Score: 5/5)
