@@ -9,19 +9,21 @@ A simple Python script to check the strength of a given password. It evaluates t
 - 🔣 **Checks for special characters**: Supports common special characters like `!@#$%^&*()`.
 - 📊 **Strength categorization**: Provides feedback based on the score.
 
-## 📦 Requirements
+## ⚙️ Requirements
 1. 🐍 Python 3.6+
+2. 📦 No external libraries required
 
 ## 🚀 How to Use
-1. 📥 Clone the repository
+1. 🐍 Make sure you have Python installed (Python 3 recommended).
+2. 📥 Clone the repository
     ```bash
     git clone https://github.com/SltnBM/password-checker.git
     ```
-2. 📂 Navigate to the project directory
+3. 📂 Navigate to the project directory
     ```bash
     cd password-checker
     ```
-3. ▶️ Run the script
+4. ▶️ Run the script
     ```bash
     python passwordChecker.py
     ```
