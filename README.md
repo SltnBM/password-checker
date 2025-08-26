@@ -14,7 +14,7 @@ A simple Python script to check the strength of a given password. It evaluates t
 2. 📦 No external libraries required
 
 ## 🚀 How to Use
-1. 🐍 Make sure you have Python installed (Python 3 recommended).
+1. 🐍 Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
 2. 📥 Clone the repository
     ```bash
     git clone https://github.com/SltnBM/password-checker.git
